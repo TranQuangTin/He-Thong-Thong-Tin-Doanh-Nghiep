@@ -1,0 +1,9 @@
+C:\Users\hongtieunhu\Documents\GitHub\He-Thong-Thong-Tin-Doanh-Nghiep\DemoGitHub\DemoGitHub\bin\Debug\DemoGitHub.exe.config
+C:\Users\hongtieunhu\Documents\GitHub\He-Thong-Thong-Tin-Doanh-Nghiep\DemoGitHub\DemoGitHub\bin\Debug\DemoGitHub.exe
+C:\Users\hongtieunhu\Documents\GitHub\He-Thong-Thong-Tin-Doanh-Nghiep\DemoGitHub\DemoGitHub\bin\Debug\DemoGitHub.pdb
+C:\Users\hongtieunhu\Documents\GitHub\He-Thong-Thong-Tin-Doanh-Nghiep\DemoGitHub\DemoGitHub\obj\Debug\DemoGitHub.csprojResolveAssemblyReference.cache
+C:\Users\hongtieunhu\Documents\GitHub\He-Thong-Thong-Tin-Doanh-Nghiep\DemoGitHub\DemoGitHub\obj\Debug\DemoGitHub.Form1.resources
+C:\Users\hongtieunhu\Documents\GitHub\He-Thong-Thong-Tin-Doanh-Nghiep\DemoGitHub\DemoGitHub\obj\Debug\DemoGitHub.Properties.Resources.resources
+C:\Users\hongtieunhu\Documents\GitHub\He-Thong-Thong-Tin-Doanh-Nghiep\DemoGitHub\DemoGitHub\obj\Debug\DemoGitHub.csproj.GenerateResource.Cache
+C:\Users\hongtieunhu\Documents\GitHub\He-Thong-Thong-Tin-Doanh-Nghiep\DemoGitHub\DemoGitHub\obj\Debug\DemoGitHub.exe
+C:\Users\hongtieunhu\Documents\GitHub\He-Thong-Thong-Tin-Doanh-Nghiep\DemoGitHub\DemoGitHub\obj\Debug\DemoGitHub.pdb
